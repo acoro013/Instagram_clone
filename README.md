@@ -44,7 +44,7 @@ Created the designs using Canva, in order to make the app unique
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Arturo Corona]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
